@@ -28,6 +28,7 @@
 - **Ettu Julius - [@Skibo555](https://github.com/Skibo555)** - Backend Developer
 - **Bashir Umar Idris - [@bash4Dev](https://github.com/bash4dev)** - Frontend Developer
 - **Samuel Ben-David - [@sbendavid](https://github.com/sbendavid)** - Backend Developer
+- **Jude Orifa - [@jude006] (https://github.com/Jude006)** - Frontend Developer
 
 ###
 
